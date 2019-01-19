@@ -67,6 +67,9 @@ public class UserController {
 		this.userService.deleteUser(user.getId());
 	}
 	
+
+	
+
 	
 	
 	private boolean validate(User user) {
